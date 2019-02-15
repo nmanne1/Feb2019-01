@@ -1,0 +1,9 @@
+Pulic class HelloWorld(){
+
+System.out.println("Hello World!");
+System.out.println("Hi Naveen!");
+System.out.println("Welcome to oue New Project!");
+System.out.println("Needs to add New Features");
+System.out.println("Update");
+
+}

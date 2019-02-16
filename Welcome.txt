@@ -6,5 +6,7 @@ System.out.println("Welcome to oue New Project!");
 System.out.println("Needs to add New Features");
 System.out.println("Update");
 System.out.println("New Release");
+System.out.println("Well");
+System.out.println("First Commit");
 
 }
